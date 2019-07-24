@@ -1,5 +1,5 @@
 def oxford_comma(array)
   if array == 2 
-    return "#{array[}"
+    return "#{array[0} and"
 end
 
